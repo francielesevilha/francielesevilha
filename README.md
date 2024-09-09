@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Franciele Sevilha</h1>
-<h3 align="center">I'm a Software Developer and definitely passionate for new technology 💻🖱️</h3>
+<h3 align="center">I'm a Software Developer and definitely passionate for everything about technology 💻🖱️</h3>
 
 <p align="left">
   <img
