@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Franciele Sevilha</h1>
-<h3 align="center">I'm a Software Developer and definitely passionate for everything about technology 💻🖱️</h3>
+<h3 align="center">
+  I'm a Software Developer and definitely passionate for everything about
+  technology 💻🖱️
+</h3>
 
 <p align="left">
   <img
@@ -17,6 +20,14 @@
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="https://www.linkedin.com/in/franciele-sevilha/"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://instagram.com/francielesevilha" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="francielesevilha"
       height="30"
       width="40"
   /></a>
@@ -220,6 +231,14 @@
     <img
       src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
       alt="sqlite"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
       width="40"
       height="40"
     />
